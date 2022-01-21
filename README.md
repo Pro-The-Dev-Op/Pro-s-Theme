@@ -2,7 +2,7 @@
 
 ![Downloads](https://vsmarketplacebadge.apphb.com/downloads/ProGamer.pro-ggamer.svg)
 ![Rating](https://vsmarketplacebadge.apphb.com/rating-star/ProGamer.pro-ggamer.svg)
-![Version](https://vsmarketplacebadge.apphb.com/version/ProGamer.pro-ggamer.svg)
+![Version](https://vsmarketplacebadge.apphb.com/version/ProGamer.pro-ggamer.png)
 ![Installs](https://vsmarketplacebadge.apphb.com/installs/ProGamer.pro-ggamer.svg) 
 ### Download [  Pro's theme](https://marketplace.visualstudio.com/items?itemName=ProGamer.pro-ggamer)
 Made for true coders
