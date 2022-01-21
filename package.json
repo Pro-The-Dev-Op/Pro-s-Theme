@@ -2,7 +2,7 @@
     "name": "pro-ggamer",
     "displayName": "Pro's theme",
     "description": "this is a color theme made by a young developer",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "author": {"name":"ProGamer"},
     "license": "mit",
     "publisher": "ProGamer",
@@ -26,6 +26,11 @@
                 "label": "Glowing Sun theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/glowingsun.json"
+            },
+            {
+                "label": "Lighter-A theme for Light Coders",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lighter-a-theme-for-light-coders-color-theme.json"
             }
         ]
     },

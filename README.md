@@ -2,7 +2,7 @@
 
 ![Downloads](https://vsmarketplacebadge.apphb.com/downloads/ProGamer.pro-ggamer.svg)
 ![Rating](https://vsmarketplacebadge.apphb.com/rating-star/ProGamer.pro-ggamer.svg)
-![Version](https://vsmarketplacebadge.apphb.com/version/ProGamer.pro-ggamer.png)
+![Version](https://vsmarketplacebadge.apphb.com/version/ProGamer.pro-ggamer.svg)
 ![Installs](https://vsmarketplacebadge.apphb.com/installs/ProGamer.pro-ggamer.svg) 
 ### Download [  Pro's theme](https://marketplace.visualstudio.com/items?itemName=ProGamer.pro-ggamer)
 Made for true coders
@@ -34,6 +34,20 @@ Made for true coders
 ![This is Glowing Sun Theme](./img/Screenshot(14).png)
 >
 ![This is Glowing Sun Theme](./img/Screenshot(15).png)
+>
+> Pro's Lighter-A Theme For Light Coders 
+>
+![This is Lighter Theme](./img/Screenshot171.png)
+>
+![This is Lighter Theme](./img/Screenshot172.png)
+>
+![This is Lighter Theme](./img/Screenshot173.png)
+>
+![This is Lighter Theme](./img/Screenshot174.png)
+>
+![This is Lighter Theme](./img/Screenshot175.png)
+>
+![This is Lighter Theme](./img/Screenshot176.png)
 >
 
 A rating on the [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=ProGamer.pro-ggamer) is highly appreciated!
