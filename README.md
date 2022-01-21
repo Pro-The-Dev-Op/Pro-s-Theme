@@ -2,7 +2,7 @@
 
 
 ### Download [  Pro's theme](https://marketplace.visualstudio.com/items?itemName=ProGamer.pro-ggamer)
--Made for true coders
+Made for true coders
 - This theme has many colors to select the preview of same are below
 -  It comes in two flavours:
 
