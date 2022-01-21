@@ -47,7 +47,5 @@ Made for true coders
 >
 ![This is Lighter Theme](./img/Screenshot175.png)
 >
-![This is Lighter Theme](./img/Screenshot176.png)
->
 
 A rating on the [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=ProGamer.pro-ggamer) is highly appreciated!
