@@ -8,7 +8,7 @@ Made for true coders
 
 > Pro's Original
 > 
-![This is Main Theme]("./img/screenshot(3.png)")
+![This is Main Theme](./img/screenshot3.png)
 >
 ![This is Main Theme]("./img/screenshot(4.png)")
 >
