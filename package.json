@@ -1,0 +1,27 @@
+{
+    "name": "pro-s-theme",
+    "displayName": "Pro's theme",
+    "description": "this is a color theme made by a young developer",
+    "version": "0.0.2",
+    "author": {"name":"ProGamer"},
+    "license": "mit",
+    "publisher": "ProGamer",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "homepage": "",
+    "keywords": ["vs code monokai plus pros theme"],
+    "icon": "apple-icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pro's theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pro's theme-color-theme.json"
+            }
+        ]
+    }
+}
